@@ -1,0 +1,5 @@
+name: OGD moderation state
+description: OGD Change node moderation state
+type: module
+core: 8.x
+package: Custom

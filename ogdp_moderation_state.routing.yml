@@ -1,0 +1,8 @@
+ogdp_moderation_state.moderation_state:
+  path: 'admin/moderate'
+  defaults:
+    _form: '\Drupal\ogdp_moderation_state\Form\ModerationState'
+    _title: 'Apply Moderation State'
+  requirements:
+    _permission: 'access content'
+        
